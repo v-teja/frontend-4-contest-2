@@ -34,7 +34,7 @@ const App = () => {
             <th>ID</th>
             <th>Image</th>
             <th>Symbol</th>
-            <th>Current Price</th>
+            <th>Current Price(usd)</th>
             <th>Total Volume</th>
           </tr>
         </thead>
